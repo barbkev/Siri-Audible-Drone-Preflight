@@ -1,5 +1,5 @@
 # Siri-Audible-Drone-Preflight
-Siri Shortcut for an Audible Preflight Checklist for Drone Pilots
+Siri Shortcut for an Audible, hands-free Preflight Checklist for Drone Pilots
 
 # Setup
 1. Create a list in the Reminders app called "Preflight Checklist"
