@@ -9,3 +9,4 @@ Siri Shortcut for an Audible Preflight Checklist for Drone Pilots
 
 # Use
 Preflight Checklist will read from your "Preflight Checklist" Reminder list and listen for you to say "Check". If you say anything else, such as "Skip", the item will not be checked and you will later have the option to come back and run through the missed items.
+After running the checklist, each item is recorded into the "Preflight Log.txt" file, which should be saved in your "Shortcuts" folder in iCloud. A timestamp marks when it was run. 
